@@ -38,7 +38,7 @@ Aplicación web para aplicar filtros visuales usando WebAssembly. Comparación d
 ### 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/jose-gomez-dev)  
-- ✉️ josegomez.dev [arroba] gmail.com  
+- ✉️ gomez.pepper@gmail.com  
 - 📍 Uruguay | Remoto, híbrido o presencial
 
 ---
