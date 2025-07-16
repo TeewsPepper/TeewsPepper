@@ -18,7 +18,7 @@ Me apasiona crear interfaces limpias, accesibles y con sentido, mientras aprendo
 
 ### 🚀 Proyectos destacados
 
-🖼️ [Editor de Imágenes con WASM](https://github.com/TeewsPepper/image-wasm-editor)  
+🖼️ [Editor de Imágenes con WASM](https://github.com/TeewsPepper/image-editor)  
 Aplicación web para aplicar filtros visuales usando WebAssembly. Comparación de performance entre JS puro y WASM
 
 
