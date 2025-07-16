@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy José 👋</h1>
 
-### 🧑‍💻 Frontend Developer Jr. | Explorador curioso de la web
+### 🧑‍💻 Frontend Developer. | Explorador curioso de la web
 
 Desarrollador frontend en transición profesional desde el mundo del audio y la música.  
 Me apasiona crear interfaces limpias, accesibles y con sentido, mientras aprendo tecnologías modernas del ecosistema web.
@@ -19,13 +19,8 @@ Me apasiona crear interfaces limpias, accesibles y con sentido, mientras aprendo
 ### 🚀 Proyectos destacados
 
 🖼️ [Editor de Imágenes con WASM](https://github.com/TeewsPepper/image-wasm-editor)  
-Aplicación web para aplicar filtros visuales usando WebAssembly. Comparación de performance entre JS puro y WASM.
+Aplicación web para aplicar filtros visuales usando WebAssembly. Comparación de performance entre JS puro y WASM
 
-💬 [Interfaz AutoGen (React + Flask)](https://github.com/TeewsPepper/autogen-interface)  
-Prototipo para visualizar conversaciones entre agentes LLM y humanos.
-
-🧪 [Reto JS ES6+](https://github.com/TeewsPepper/js-retos-practica)  
-Ejercicios prácticos sobre lógica, callbacks, reduce, DOM, eventos, etc.
 
 ---
 
