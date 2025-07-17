@@ -22,8 +22,6 @@ Me gusta esto de la creación de interfaces.
 ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-264de4?logo=css3&logoColor=white&style=flat)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) 
-
 ---
 
 ### 📫 Contacto
