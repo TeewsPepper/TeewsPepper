@@ -10,7 +10,7 @@ Me gusta esto de la creación de interfaces.
 ### ⚡ Sobre mí
 
 - 🎨 De artista sonoro a constructor de interfaces.
-- 🔧 En formación constante: HTTP y comunicación con servidores, TypeScript, testing, WebAssembly.
+- 🔧 En formación constante: ReactJs, CSS, HTTP y comunicación con servidores, TypeScript, testing.
 - 🤖 Uso LLMs como compañeros de estudio.
 - 🧠 Creo en aprender con otros: una buena charla técnica vale oro.
 
