@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy José 👋</h1>
 
-### 🧑‍💻 Frontend Developer. | Un día me picó la curiosidad.
+### 🧑‍💻 Frontend Developer.
 
 Desarrollador frontend en transición profesional desde el mundo del audio y la música.  
 Me gusta esto de la creación de interfaces.
@@ -38,5 +38,5 @@ Me gusta esto de la creación de interfaces.
 
 ---
 
-> *"No existe junior sólido. Solo alguien con proyectos, curiosidad y voluntad de aprender constantemente."*
+
 
